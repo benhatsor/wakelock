@@ -1,5 +1,7 @@
 # Wake Lock
 
+Disable device sleep when idle in JavaScript.
+
 ## Usage
 
 1. Put this HTML in your body:
